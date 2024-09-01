@@ -1,0 +1,11 @@
+/node_modules
+
+/behavior_packs/*
+!/behavior_packs/alphabet_blocks
+/behavior_packs/alphabet_blocks/*
+!/behavior_packs/alphabet_blocks/manifest.json
+
+/resource_packs/*
+!/resource_packs/alphabet_blocks
+/resource_packs/alphabet_blocks/*
+!/resource_packs/alphabet_blocks/manifest.json

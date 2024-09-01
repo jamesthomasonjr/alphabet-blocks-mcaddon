@@ -1,0 +1,24 @@
+{
+ "format_version": 2, 
+ "header": { 
+  "description": "Alphabet Blocks Behavior Pack Add-On!", 
+  "name": "Alphabet Blocks Behavior Pack", 
+  "uuid": "0f601f6d-9fc5-45b3-8a1c-1c81ccaffb2c", 
+  "version": [ 1, 0, 0 ], 
+  "min_engine_version": [ 1, 19, 20 ] 
+ }, 
+ "modules": [ 
+  { 
+   "description": "Alphabet Blocks Behavior Pack", 
+   "type": "data", 
+   "uuid": "f667f7b5-aa21-4c15-a511-19b6363c32d6", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ], 
+ "dependencies": [ 
+  { 
+   "uuid": "7e43a039-e83b-4eca-bc82-144e464c4bcd", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ] 
+}

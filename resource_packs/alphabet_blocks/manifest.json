@@ -1,0 +1,24 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Alphabet Blocks Resource Pack Add-On!",
+   "name": "Alphabet Blocks Resource Pack",
+   "uuid": "7e43a039-e83b-4eca-bc82-144e464c4bcd",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Alphabet Blocks Resource Pack",
+     "type": "resources",
+     "uuid": "a53d8376-9fac-4579-b9f9-4c4360af4d22",
+     "version": [1, 0, 0]
+   }
+ ],
+ "dependencies": [ 
+  { 
+   "uuid": "0f601f6d-9fc5-45b3-8a1c-1c81ccaffb2c", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ] 
+}
